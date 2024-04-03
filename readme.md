@@ -7,9 +7,15 @@ submission : https://thakaresakshi.github.io/Kommunicate/
 
 submission: getUrlParameter.js
 
+![image](https://github.com/ThakareSakshi/kommunicate-Assignment/assets/86354291/8440c702-4a56-48ad-834a-9e7d00089440)
+
+
 ### task 3 : Write a javascript function that prints the reverse of a number. Example: if the number is 149, then output should be 941.
 
 submission: reverseNumber.js
+
+![image](https://github.com/ThakareSakshi/kommunicate-Assignment/assets/86354291/d2f91ee2-a13d-46d8-8728-c694c0ebf240)
+
 
 ### task 4 : Describe the best project you have worked on, including links if any
 
